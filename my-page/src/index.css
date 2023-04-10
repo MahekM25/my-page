@@ -1,0 +1,58 @@
+body{
+    font-family: Inter, sans-serif;
+    color: white;
+    background-color: #282d35;
+    
+}
+
+.navi{
+    text-align: center;
+}
+
+.navi-img {
+    width: 15ch;
+   
+    margin-top: 5px;   
+}
+
+.mahek {
+    margin-top: 30px;
+}
+
+.button-git {
+    width: 8%;
+    background-color: skyblue;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.button-linkedin {
+    width: 8%;
+    background-color: skyblue;
+    font-weight: bold;
+}
+
+.about {
+    padding-left: 15px;
+}
+
+.interests {
+    padding-left: 15px;
+    margin-top: 35px;
+}
+
+.foot{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    background-color: #21222A;
+    width: 100%;
+    justify-content: center;
+}
+
+.foot > img {
+    width: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-block: 5px;
+}
